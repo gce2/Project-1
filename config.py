@@ -1,1 +1,1 @@
-git_key = "YOUR KEY HERE"
+git_key = "Enter your GitHub 'personal access key' here"
